@@ -160,24 +160,5 @@ CACHE_TTL_SECONDS = 3600   # Cache expiration (1 hour)
 - [ ] Query performance benchmarking
 - [ ] Support for more database types
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
-## 👤 Author
-
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
-
-Project Link: [https://github.com/yourusername/sql-query-analyzer](https://github.com/yourusername/sql-query-analyzer)
-
----
 
 ⭐ Star this repo if you find it helpful!
